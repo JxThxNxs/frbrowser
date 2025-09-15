@@ -1,0 +1,7 @@
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/fr-browser.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/edit_cache.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/rebuild_cache.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/list_install_components.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/install.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/install/local.dir
+/home/jonas/Documents/fr-browser/build-64bit/CMakeFiles/install/strip.dir

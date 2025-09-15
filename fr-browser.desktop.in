@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FR Browser
+Comment=A lightweight, fast, and open-source web browser
+Exec=fr-browser
+Icon=fr-browser
+Terminal=false
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;text/plain;
+StartupNotify=true
+StartupWMClass=fr-browser
